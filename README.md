@@ -1,1 +1,3 @@
-# This is a sample TodoApp
+# TodoApp
+
+A simple todoapp using django
